@@ -12,8 +12,11 @@ Cart Functionality: Manage shopping cart for users.
 Visual Studio or any C# compatible IDE
 
 ## Installation
+Install SSMS
+From Sql queries file make database 
 Open the solution file in Visual Studio.
 Restore the required NuGet packages if any.
+replace connection string in every cs file 
 Build and run the project.
 
 ## Usage
