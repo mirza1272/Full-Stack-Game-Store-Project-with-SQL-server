@@ -1,0 +1,113 @@
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form1.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Properties.Resources.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe.config
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.pdb
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.exe
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.pdb
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form2.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ProductDetailsPage.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.home_page.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.GameModel.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartPage.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.OrderSummaryPage.resources
+C:\Users\acer\source\repos\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartItem.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe.config
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.pdb
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartItem.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartPage.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form1.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form2.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.GameModel.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.home_page.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.OrderSummaryPage.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ProductDetailsPage.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Properties.Resources.resources
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.exe
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.pdb
+C:\Users\hp\Desktop\db project\New folder\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.paymentmethod.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe.config
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.pdb
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartItem.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartPage.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form1.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form2.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.GameModel.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.home_page.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.OrderSummaryPage.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.paymentmethod.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ProductDetailsPage.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.exe
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.pdb
+C:\Users\Lenovo\Desktop\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.AdminForm.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe.config
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.pdb
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.AssemblyReference.cache
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.AddGame.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.AddUser.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.AdminForm.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartItem.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartPage.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.DeleteGame.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.DeleteUser.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form1.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form2.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.GameModel.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.home_page.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ManageGames.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ManageUsers.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.OrderSummaryPage.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.paymentmethod.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ProductDetailsPage.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Properties.Resources.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ViewOrders.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.GenerateResource.cache
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.exe
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.pdb
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.viewallusers.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.viewallgames.resources
+C:\Users\hp\Videos\GameStoreProject\GameStoreProject\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.vieworderdetails.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe.config
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.exe
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\bin\Debug\GameStoreProject.pdb
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.AssemblyReference.cache
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.exe.config
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.AddGame.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.AddUser.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.AdminForm.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartItem.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.CartPage.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.DeleteGame.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.DeleteUser.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form1.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Form2.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.GameModel.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.home_page.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ManageGames.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ManageUsers.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.OrderSummaryPage.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.paymentmethod.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ProductDetailsPage.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.Properties.Resources.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.viewallgames.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.viewallusers.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.vieworderdetails.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.ViewOrders.resources
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.GenerateResource.cache
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.csproj.CoreCompileInputs.cache
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.exe
+C:\Users\Mirza Haseeb\Desktop\gamestore project real one\GameStoreProject\GameStoreProject\obj\Debug\GameStoreProject.pdb
